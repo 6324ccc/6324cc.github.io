@@ -1,6 +1,6 @@
 Story by Cirno
 html5up.net | @ajlkn
-欢迎来到我的托管网站，认识一下？
+欢迎来到我的网站，认识一下？
 
 
 Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
